@@ -1,6 +1,10 @@
 # open-channel-logos
 Real channel logos channel logos.
 <br>
+# Open Repository's discord
+
+https://discord.gg/CZTGFD9K
+
 <br>
 # for use with the following projects
 
