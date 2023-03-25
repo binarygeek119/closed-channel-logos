@@ -3,7 +3,7 @@ Real channel logos channel logos.
 <br>
 # Open Repository's discord
 
-https://discord.gg/CZTGFD9K
+https://discord.gg/AEhVjqX4Af
 
 <br>
 # for use with the following projects
